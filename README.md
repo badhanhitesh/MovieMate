@@ -80,12 +80,31 @@ MovieMate is an online platform for managing movie bookings, seat selection, and
 - **🔒 User Authentication:** Implements secure authentication mechanisms to protect user accounts and personal information.
 - **🛡️ Data Encryption:** Encrypts sensitive data such as passwords and payment details to ensure privacy and security.
 
----
 
-## 🚀 **Deployment**
 
 ### 🌐 **Frontend**
 
 1. **Navigate to the frontend directory:**
    ```bash
    cd frontend
+
+2. **Install frontend dependencies:**
+   ```sh
+   cd frontend
+   npm install
+
+3. **Install backend dependencies:**
+  ```sh
+  cd ../backend
+  npm install
+4. **Install backend dependencies:**
+ ```sh
+   cd ../backend
+   npm install
+5. **Start the development server:**
+ ```sh
+   cd frontend
+   npm start
+   cd backend
+   npm start
+
