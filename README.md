@@ -87,7 +87,7 @@ To run this project locally, follow these steps:
    npm start
    cd backend
    npm start
-6. 
+
 
 
 
