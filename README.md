@@ -1,4 +1,4 @@
-# TMDB - The Movie Database
+# MovieMate - The Movie Database
 
 [Live Link](https://www.themoviedb.org/)
 
@@ -23,7 +23,7 @@
 
 ## Introduction
 
-TMDB - The Movie Database is an online platform for managing movie bookings, seat selection, and food ordering. This project includes user management, an interactive booking system, an optional food ordering feature, real-time seat management, and an admin panel for managing screens, bookings, and menus.
+MovieMate - The Movie Database is an online platform for managing movie bookings, seat selection, and food ordering. This project includes user management, an interactive booking system, an optional food ordering feature, real-time seat management, and an admin panel for managing screens, bookings, and menus.
 
 ## Features
 
@@ -79,4 +79,4 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/TMDB-TheMovieDatabase.git
+   git clone https://github.com/yourusername/MovieMate-TheMovieDatabase.git
