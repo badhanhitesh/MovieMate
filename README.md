@@ -1,5 +1,8 @@
 # MovieMate - The Movie Database
 
+### Note
+This project is a task assigned as part of the recruitment drive organized by ADVANTO SOFTWARE PVT LTD for Accucia Software Pvt Ltd, Pune. It is an open campus drive conducted by ADVANTO SOFTWARE PVT LTD as a CSR initiative – Placement for All, and it is completely free of cost. The project aims to showcase the candidate's technical expertise.
+
 [Live Link](https://www.themoviedb.org/)
 
 ## Table of Contents
@@ -65,18 +68,26 @@ MovieMate - The Movie Database is an online platform for managing movie bookings
 - **User Authentication:** Implements secure authentication mechanisms to protect user accounts and personal information.
 - **Data Encryption:** Encrypts sensitive data such as passwords and payment details to ensure privacy and security.
 
-## Deployment
-
-### Frontend
-The frontend application (user interface) can be deployed on Vercel, a cloud platform for static sites and serverless functions.
-
-### Backend
-The backend services (server-side logic, database interaction, etc.) can be deployed on Render, a cloud platform for hosting web applications and databases.
-
 ## Installation
 
 To run this project locally, follow these steps:
 
-1. Clone the repository:
-   ```bash
+1. **Clone the repository:**
    git clone https://github.com/yourusername/MovieMate-TheMovieDatabase.git
+2. **Navigate to the project directory:**
+   cd MovieMate-TheMovieDatabase
+3. **Install frontend dependencies:**
+   cd frontend
+   npm install
+4. **Install backend dependencies:**
+   cd ../backend
+   npm install
+5. **Start the development server:**
+   cd frontend
+   npm start
+   cd backend
+   npm start
+6. 
+
+
+
