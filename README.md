@@ -20,9 +20,7 @@
   - [Frontend](#frontend)
   - [Backend](#backend)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
