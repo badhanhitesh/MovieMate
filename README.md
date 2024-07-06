@@ -1,7 +1,7 @@
 # 🌟 **MovieMate - The Movie Database** 🌟
 
 ### 📝 **Note**
-**This project is a task assigned as part of the recruitment drive organized by ADVANTO SOFTWARE PVT LTD for Accucia Software Pvt Ltd, Pune.**
+**This project is a task assigned as part of the recruitment drive organized by ADVANTO SOFTWARE PVT LTD for Stack Developer (MERN) position at SecurityBoat Cybersecurity Solutions Pvt Ltd, Pune.**
 
 [🌐 **Live Link**](https://www.themoviedb.org/)
 
