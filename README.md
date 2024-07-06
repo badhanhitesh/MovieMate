@@ -82,7 +82,7 @@ MovieMate is an online platform for managing movie bookings, seat selection, and
 
 
 
-### 🌐 **Frontend**
+### 🌐 **SETUP**
 
 1. **Navigate to the frontend directory:**
    ```bash
@@ -94,15 +94,12 @@ MovieMate is an online platform for managing movie bookings, seat selection, and
    npm install
 
 3. **Install backend dependencies:**
-  ```sh
+   
   cd ../backend
   npm install
-4. **Install backend dependencies:**
- ```sh
-   cd ../backend
-   npm install
-5. **Start the development server:**
- ```sh
+
+4. **Start the development server:**
+
    cd frontend
    npm start
    cd backend
