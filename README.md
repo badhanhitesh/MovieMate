@@ -94,12 +94,12 @@ MovieMate is an online platform for managing movie bookings, seat selection, and
    npm install
 
 3. **Install backend dependencies:**
-   
+   ```sh
   cd ../backend
   npm install
 
 4. **Start the development server:**
-
+   ```sh
    cd frontend
    npm start
    cd backend
