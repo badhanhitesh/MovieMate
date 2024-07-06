@@ -1,7 +1,7 @@
 # MovieMate - The Movie Database
 
 ### Note
-This project is a task assigned as part of the recruitment drive organized by ADVANTO SOFTWARE PVT LTD for Accucia Software Pvt Ltd, Pune. It is an open campus drive conducted by ADVANTO SOFTWARE PVT LTD as a CSR initiative – Placement for All, and it is completely free of cost. The project aims to showcase the candidate's technical expertise.
+This project is a task assigned as part of the recruitment drive organized by ADVANTO SOFTWARE PVT LTD for Accucia Software Pvt Ltd, Pune.
 
 [Live Link](https://www.themoviedb.org/)
 
